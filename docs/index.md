@@ -6,6 +6,10 @@ nocomment: True
 # 我的忏悔录
 
 <div style="text-align: center; font-family: 'Noto Serif SC'; font-size: 1.5em; font-weight: 600;" markdown="1">
+![](images/640.png)
+</div>
+
+<div style="text-align: center; font-family: 'Noto Serif SC'; font-size: 1.5em; font-weight: 600;" markdown="1">
 
 我的忏悔录
 
@@ -38,6 +42,8 @@ nocomment: True
 <div style="text-align: right;">吴子豪</div>
 
 <div style="text-align: center; font-family: 'Noto Serif SC'; font-size: 1.5em; font-weight: 600;" markdown="1">
+
+![](images/640.png)
 
 我的反思
 
@@ -104,6 +110,10 @@ nocomment: True
 
 总结：我在被屏蔽的情况下多次使用命令语气，说了远超原来本意的话，甚至要
 求断绝关系，火上浇油，让你感到非常伤心失望。我对此非常后悔。请原谅我。
+
+<div style="text-align: center; font-family: 'Noto Serif SC'; font-size: 1.5em; font-weight: 600;" markdown="1">
+![](images/640.png)
+</div>
 
 <div class="card file-block" markdown="1">
 <div class="file-icon"><img src="https://zjuacee.blob.core.windows.net/zju-acee/pdf.svg" style="height: 3em;"></div>
