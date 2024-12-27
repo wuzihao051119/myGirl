@@ -23,7 +23,7 @@
     }
 
     if (!scheme) {
-      scheme = "slate"
+      scheme = "default"
     }
     if (!prefers) {
       prefers = "false"
