@@ -17,7 +17,7 @@ nocomment: True
 
 亲爱的刘旭冉：
 
-&emsp;&emsp;可好？
+&emsp;&emsp;你好！
 
 &emsp;&emsp;我深刻反思并忏悔我存在的各种问题。
 
