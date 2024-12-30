@@ -11,17 +11,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/wuzihao051119/myGirl/confession/confession/</loc>
-         <lastmod>2024-12-30</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/wuzihao051119/myGirl/confession/wantToSay/</loc>
-         <lastmod>2024-12-30</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://github.com/wuzihao051119/myGirl/gifts/music/</loc>
+         <lastmod>2024-12-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/wuzihao051119/myGirl/thoughts/article/</loc>
+         <lastmod>2024-12-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/wuzihao051119/myGirl/thoughts/confession/</loc>
          <lastmod>2024-12-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
