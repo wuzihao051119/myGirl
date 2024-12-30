@@ -10,8 +10,8 @@ nav:
   - 主页:
     - index.md
   - 感想:
-    - 我想说的: confession/wantToSay.md
-    - 我的忏悔录: confession/confession.md
+    - 随记: thoughts/article.md
+    - 我的忏悔录: thoughts/confession.md
   - 礼物:
     - 献给刘旭冉的音乐: gifts/music.md
   - 关于:
