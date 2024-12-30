@@ -1,9 +1,9 @@
-site_name: 送给心爱的刘旭冉
-site_url: https://github.com/wuzihao051119/confession/
-site_description: 送给心爱的刘旭冉
+site_name: 献给心爱的刘旭冉
+site_url: https://github.com/wuzihao051119/myGirl/
+site_description: 献给心爱的刘旭冉
 repo_name: wuzihao051119/confession
-repo_url: https://github.com/wuzihao051119/confession
-edit_uri: tree/master/docs
+repo_url: https://github.com/wuzihao051119/myGirl
+edit_uri: tree/main/docs
 copyright: Copyright &copy; 2024 吴子豪
 
 nav:
