@@ -5,3 +5,4 @@ mkdocs-heti-plugin==0.1.6
 mkdocs-encryptcontent-plugin==3.0.3
 rich==13.7.1
 GitPython==3.1.43
+mkdocs-statistics-plugin==0.1.4

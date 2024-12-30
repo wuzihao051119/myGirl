@@ -1,6 +1,6 @@
-site_name: 我的忏悔录
+site_name: 送给心爱的刘旭冉
 site_url: https://github.com/wuzihao051119/confession/
-site_description: 我的忏悔录
+site_description: 送给心爱的刘旭冉
 repo_name: wuzihao051119/confession
 repo_url: https://github.com/wuzihao051119/confession
 edit_uri: tree/master/docs
@@ -9,6 +9,13 @@ copyright: Copyright &copy; 2024 吴子豪
 nav:
   - 主页:
     - index.md
+  - 感想:
+    - 我想说的: confession/wantToSay.md
+    - 我的忏悔录: confession/confession.md
+  - 礼物:
+    - 献给刘旭冉的音乐: gifts/music.md
+  - 关于:
+    - 关于本站: about/about.md
 theme:
   name: 'material'
   language: 'zh'
@@ -16,7 +23,7 @@ theme:
     logo: material/notebook-outline
     repo: fontawesome/brands/github
     edit: material/pencil
-  # favicon: https://zjuacee.blob.core.windows.net/zju-acee/icon.jpg
+  favicon: favicon.png
   custom_dir: overrides
   features:
   - content.code.annotate
@@ -34,7 +41,8 @@ theme:
   
 plugins:
   - search
-  # - toc
+  - statistics
+  # - toc-md
   - heti:
       extra_skipped_class:
         - arithmatex
@@ -63,9 +71,9 @@ extra_javascript:
   - js/katex.js
 
 markdown_extensions:
-  # - toc:
-  #     permalink: true
-  #     toc_depth: 4
+  - toc:
+      permalink: true
+      toc_depth: 4
   - meta
   - def_list
   - attr_list
@@ -93,6 +101,3 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 # mkdocs.yaml
-extra_javascript:
-    - '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'
-
