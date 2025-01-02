@@ -10,6 +10,7 @@ nav:
   - 主页:
     - index.md
   - 感想:
+    - 别逃避了: thoughts/escape.md
     - 随记: thoughts/article.md
     - 我的忏悔录: thoughts/confession.md
   - 礼物:
